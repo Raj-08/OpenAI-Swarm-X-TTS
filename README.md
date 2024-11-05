@@ -1,7 +1,6 @@
-# OpenAI-Swarm-X-TTS-
-An Agentic Framework built with OpenAI Swarm and Coqui TTS. 
+# OpenAI-Swarm-X-TTS
 
-This Voice Enabled Swarm of Agents aims to achieve tasks between autonomous agent entities. 
+Voice Enabled Swarm of Agents aims to achieve tasks between autonomous agent entities built with OpenAI Swarm and Coqui TTS.
 
 
 ![Demo Screenshot](https://imgur.com/L6Y0tbB.png)
