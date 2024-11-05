@@ -10,6 +10,6 @@ This Voice Enabled Swarm of Agents aims to achieve tasks between autonomous agen
 The Customer here is itself an LLM which is autonomously interacting with the swarm of agents that represent a company, which in our case is a business that sells API. 
 
 
-![Demo Screenshot](https://imgur.com/IToMihx.jpg)
+![Demo Screenshot](https://imgur.com/MVd6sCj.png)
 
 
