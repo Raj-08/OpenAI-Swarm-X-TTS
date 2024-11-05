@@ -1,4 +1,4 @@
-# OpenAI-Swarm-X-TTS
+# Voice Enabled Swarm of Agents Ft OpenAI-Swarm-X-TTS
 
 Voice Enabled Swarm of Agents aims to achieve tasks between autonomous agent entities built with OpenAI Swarm and Coqui TTS.
 
