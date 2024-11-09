@@ -12,7 +12,7 @@ The Customer here is itself an LLM which is autonomously interacting with the sw
 
 ## Demo
 Watch the demo video to see the system in action:
-[!Corporate Voice System Demo](https://www.youtube.com/watch?v=UsvBG0dQjMk)
+[!YOUTUBE](https://www.youtube.com/watch?v=UsvBG0dQjMk)
 
 
 ## Features
