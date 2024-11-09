@@ -1,1 +1,13 @@
-r
+wave==0.0.2
+torch>=2.0.0
+swarm-python>=0.1.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+transformers>=4.30.0
+scipy>=1.10.0
+numpy>=1.24.0
+openai>=1.3.0
+TTS>=0.22.0
+moviepy>=1.0.3
+opencv-python>=4.8.0
+dataclasses>=0.6
