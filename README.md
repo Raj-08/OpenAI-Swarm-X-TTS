@@ -27,8 +27,8 @@ Watch the demo video to see the system in action:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/corporate_voice_system.git
-cd corporate_voice_system
+git clone https://github.com/Raj-08/OpenAI-Swarm-X-TTS.git
+cd OpenAI-Swarm-X-TTS
 ```
 
 2. Create and activate a virtual environment:
